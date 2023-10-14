@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "yotsunbai pack",
+        "name": "yotsunbai pack",
+        "uuid": "1043dcc2-ba87-0dd6-b4d7-bf0d0ac850a7",
+        "version": [0, 1, 6],
+        "min_engine_version": [1, 12, 0]
+    },
+    "modules": [
+        {
+            "description": "yotsunbai pack",
+            "type": "resources",
+            "uuid": "895c30c4-8bb9-5b20-0a76-60b8d767e1ef",
+            "version": [0, 1, 6]
+        }
+    ]
+}
